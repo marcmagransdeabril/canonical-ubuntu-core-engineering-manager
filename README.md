@@ -1,6 +1,8 @@
 # Canonical: Ubuntu Core Engineering Manager Take Home Test
 
-These are the test results of the [Ubuntu Core Engineering Manager Take Home Test](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/INSTRUCTIONS.md).
+These are the test results of the Ubuntu Core Engineering Manager Take Home Test.
+
+The results are located in the [marcmagransdeabril/canonical-ubuntu-core-engineering-manager](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/) repository.
 
 # Exercise 1
 
