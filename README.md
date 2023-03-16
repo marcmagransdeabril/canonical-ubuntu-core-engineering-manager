@@ -8,6 +8,16 @@ The results are located in the [marcmagransdeabril/canonical-ubuntu-core-enginee
 
 Solution can be found at [exercise1](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise1) folder.
 
+## Assumptions
+
+The Bash script makes several assumptions:
+
+* Run the bash script on Ubuntu 22-04 LTS (minimal)
+* The script stops after the first error
+* The script logs the steps (-x) 
+* Builds the latest stable kernel version, but an existing image could improve the speed of the script
+* Uses busybox to simplify the creation of the initrd image
+
 # Exercise 2
 
 ## Instructions
