@@ -9,7 +9,7 @@ The test results of the Ubuntu Core Engineering Manager Take Home Test are locat
 
 # Exercise 1
 
-The solution can be found at [exercise1](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise1) folder.
+The solution can be found at [`exercise1`](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise1) folder.
 
 ## Assumptions
 
@@ -25,9 +25,9 @@ The Bash script makes several assumptions:
 
 ## Instructions
 
-The solution can be found at [exercise2](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2) folder.
+The solution can be found at [`exercise2`](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2) folder.
 
-The Shred function can be found [shred.go](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2/shred.go) and a some tests at [shred_test.go](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2/shred_test.go)
+The Shred function can be found [`shred.go`](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2/shred.go) and a some tests at [`shred_test.go`](https://github.com/marcmagransdeabril/canonical-ubuntu-core-engineering-manager/edit/main/exercise2/shred_test.go)
 
 You can execute the tests:
 ```
